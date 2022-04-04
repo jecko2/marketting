@@ -124,9 +124,7 @@ h6,
 
 
 /*** Navbar ***/
-.navbar-dark{
-    background: #091E3E;
-}
+
 .navbar-dark .navbar-nav .nav-link {
     font-family: 'Nunito', sans-serif;
     position: relative;
